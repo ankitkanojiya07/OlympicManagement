@@ -3,7 +3,7 @@
 Develop an Olympic Management Website, aimed at facilitating the management and organization of athletes and events during the Olympic Games. The website provided a user-friendly interface for administrators, and view athletes details, view country that win the medals, and access real-time schedules.
 
 # skills 
-React js
+React js,
 Python.
 
 
